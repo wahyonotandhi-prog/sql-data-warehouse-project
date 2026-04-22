@@ -12,7 +12,7 @@ Script Purpose:
     - Data consistency between related fields.
 
 Usage Notes:
-    - Run these checks after data loading Silver Layer.
+    - Run these checks after data loading the Silver Layer.
     - Investigate and resolve any discrepancies found during the checks.
 ===============================================================================
 */
